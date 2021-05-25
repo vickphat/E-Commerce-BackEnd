@@ -53,6 +53,8 @@ This project is intended to be used to show how data can be pulled from the data
 ## Demo:
 The following link is a video that will showcase how to run the application.
 
+<img src="https://github.com/vickphat/E-Commerce-BackEnd/blob/master/image/E-Commerce.JPG">
+
 * https://www.youtube.com/watch?v=EWDd9y9KFpE
 
 ## Questions: 
